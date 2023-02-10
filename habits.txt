@@ -1,3 +1,5 @@
 1.) Good exercise and good sleep are essential for any programmer.
 
 2.) To be a really effective programmer you need to keep your eye on the goal.
+
+3.) You need to keep code as simple and consistent as possible.
