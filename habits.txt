@@ -3,3 +3,5 @@
 2.) To be a really effective programmer you need to keep your eye on the goal.
 
 3.) You need to keep code as simple and consistent as possible.
+
+4.) To have a consistent way to get in the zone.
